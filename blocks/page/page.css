@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: "Inter";
-    src: url(../../font/Inter\ Web/Inter-Bold.woff2);
+    src: url(../../font/Inter\ Web/Inter-ExtraBold.woff2);
     font-weight: bold;
 }
 
@@ -18,12 +18,14 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url(../../font/Inter\ Web/Inter-BoldItalic.woff2);
+    src: url(../../font/Inter\ Web/Inter-ExtraBoldItalic.woff2);
     font-weight: bold;
     font-style: italic;
 }
 
 .page {
+    min-width: 320px;
+    max-width: 1280px;
     margin: 0 auto 0;
     font-family: "Inter", Arial, sans-serif;
     background-color: #2A2C2F;

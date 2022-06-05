@@ -1,0 +1,8 @@
+.lead__image_type_route {
+    width: 95%;
+    object-fit: cover;;
+    position: absolute;
+    z-index: 2;
+    left: 3%;
+    top: 14%;
+}
