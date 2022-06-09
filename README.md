@@ -3,6 +3,7 @@
 ### Обзор
 * О проекте
 * Адаптивность
+* Ссылка на проект
 
 **О проекте**
 ![Хедер и первый блок](https://github.com/poly-nomial/russian-travel/blob/1ddf98f9af9f27bcac4a5580da48d934998b90cb/images/screenshots/main-screen.png?raw=true)
@@ -14,3 +15,7 @@
 ![Сайт на мобильном устройстве](https://github.com/poly-nomial/russian-travel/blob/1ddf98f9af9f27bcac4a5580da48d934998b90cb/images/screenshots/adaptivity-narrow.png?raw=true)
 
 Сайт адаптивен и меняет внешний вид в зависимости от размера экрана пользователя для красоты и удобства.
+
+**Ссылка на проект**
+
+https://poly-nomial.github.io/russian-travel/
