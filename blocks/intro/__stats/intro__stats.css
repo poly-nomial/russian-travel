@@ -1,0 +1,8 @@
+.intro__stats {
+    display: block;
+    width: 100%;
+    color: white;
+    margin: 0;
+    font-size: 12px;
+    line-height: calc(18 / 12);
+}
