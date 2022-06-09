@@ -35,11 +35,11 @@
 @import url(../blocks/place/__desc/place__desc.css);
 @import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__image/_location/place__image_location_kurshskaya_kosa.css);
+@import url(../blocks/place/__image/_location/place__image_location_kurshskaya-kosa.css);
 @import url(../blocks/place/__image/_location/place__image_location_kolsky.css);
 @import url(../blocks/place/__image/_location/place__image_location_altai.css);
 @import url(../blocks/place/__image/_location/place__image_location_baikal.css);
-@import url(../blocks/place/__image/_location/place__imgae_location_karelia.css);
+@import url(../blocks/place/__image/_location/place__image_location_karelia.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
