@@ -6,7 +6,7 @@
     color: white;
     font-size: 72px;
     line-height: calc(76 / 72);
-    font-weight: bold;
+    font-weight: 900;
 }
 
 @media screen and (max-width: 1024px) {
