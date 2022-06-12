@@ -1,7 +1,7 @@
 .photo-grid {
     display: grid;
     justify-content: center;
-    width: 92%;
+    width: 100%;
     max-width: 1184px;
     margin: 0 auto;
     padding-bottom: 92px;

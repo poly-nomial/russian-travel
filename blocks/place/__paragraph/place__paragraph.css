@@ -1,7 +1,6 @@
 .place__paragraph {
-   /* display: block;*/
     color: white;
-    margin: 0 0 26px 0;
+    margin: 0 0 25px 0;
     font-size: 18px;
     line-height: calc(29 / 18);
 }

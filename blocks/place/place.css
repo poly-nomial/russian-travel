@@ -1,18 +1,29 @@
 .place {
     display: flex;
-    flex-flow: column;
-    margin: 0 auto 80px;
-    gap: 48px;
+    flex-wrap: wrap;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 80px;
+    column-gap: 40px;
+    row-gap: 48px;
+}
+@media screen and (max-width: 1024px) {
+    .place {
+        column-gap: 32px;
+    }
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 768px) {
     .place {
-        margin-bottom: 72px;
+        column-gap: 28px;
+        padding-bottom: 73px;
     }
 }
 
 @media screen and (max-width: 668px) {
     .place {
-        margin-bottom: 50px;
+        flex-flow: column;
+        padding-bottom: 50px;
+        row-gap: 32px;
     }
 }

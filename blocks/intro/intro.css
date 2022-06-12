@@ -1,19 +1,33 @@
 .intro {
-    box-sizing: border-box;
-    max-width: 690px;
-    margin: 92px 0;
+    max-width: 720px;
+    margin: 0;
+    padding-top: 92px;
+    padding-left: 148px;
+    padding-bottom: 92px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        padding-left: 48px;
+    }
 }
 
 @media screen and (max-width: 768px) {
     .intro {
         width: 90%;
-        margin: 88px auto;
+        margin: 0 auto;
+        padding-top: 88px;
+        padding-bottom: 88px;
+        padding-left: 0;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 668px) {
     .intro {
         width: 90%;
-        margin: 64px auto;
+        margin: 0 auto;
+        padding-top: 64px;
+        padding-bottom: 64px;
+        padding-left: 0;
     }
 }

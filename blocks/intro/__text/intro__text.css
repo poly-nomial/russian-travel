@@ -1,5 +1,5 @@
 .intro__text {
-    display: block;
+    max-width: 720px;
     color: white;
     font-size: 16px;
     line-height: calc(26 / 16);

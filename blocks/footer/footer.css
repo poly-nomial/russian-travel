@@ -1,6 +1,8 @@
 .footer {
-    margin: 0 auto 24px;
-    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 24px;
+    width: 95%;
+    max-width: 1184px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -10,5 +12,6 @@
     .footer {
         flex-flow: column;
         gap: 48px;
+        padding-left: 16px;
     }
 }

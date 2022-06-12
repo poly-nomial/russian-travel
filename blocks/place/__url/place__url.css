@@ -1,4 +1,5 @@
 .place__url {
+    text-transform: uppercase;
     color: #AAA;
     letter-spacing: 0.2em;
     font-size: 12px;

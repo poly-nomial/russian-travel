@@ -1,6 +1,7 @@
 .lead__title {
     margin: 0 auto 32px;
-    width: 720px;
+    max-width: 720px;
+    width: 100%;
     text-align: center;
     color: white;
     font-weight: 900;
