@@ -13,8 +13,6 @@
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
-@import url(../blocks/lead/__image/_type/lead__image_type_photo.css);
-@import url(../blocks/lead/__image/_type/lead__image_type_route.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__title/intro__title.css);
@@ -32,15 +30,9 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/__image/_location/place__image_location_kurshskaya-kosa.css);
-@import url(../blocks/place/__image/_location/place__image_location_kolsky.css);
-@import url(../blocks/place/__image/_location/place__image_location_altai.css);
-@import url(../blocks/place/__image/_location/place__image_location_baikal.css);
-@import url(../blocks/place/__image/_location/place__image_location_karelia.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__texts/cover__texts.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
