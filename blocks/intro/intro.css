@@ -14,20 +14,22 @@
 
 @media screen and (max-width: 768px) {
     .intro {
-        width: 90%;
         margin: 0 auto;
+        max-width: 720px;
         padding-top: 88px;
         padding-bottom: 88px;
-        padding-left: 0;
+        padding-left: 24px;
+        padding-right: 24px;
     }
 }
 
 @media screen and (max-width: 668px) {
     .intro {
-        width: 90%;
         margin: 0 auto;
+        max-width: 288px;
         padding-top: 64px;
         padding-bottom: 64px;
-        padding-left: 0;
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }
